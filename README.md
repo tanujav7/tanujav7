@@ -65,9 +65,9 @@ I believe in self-management which includes discipline, time management, and hav
  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanujav988&show_icons=true&locale=en&layout=compact" alt="tanujav988" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanujav7&show_icons=true&locale=en&layout=compact" alt="tanujav7" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanujav988&show_icons=true&locale=en" alt="tanujav988" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanujav7&show_icons=true&locale=en" alt="tanujav7" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanujav988&" alt="tanujav988" /></p>
 
