@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Tanuja V</h1>
 
-![Daily News](https://github.com/tanujav988/tanujav988/assets/73555975/d7d49ebe-0b2b-45d6-8c78-1e3dc69d0574)
+![Daily News](https://github.com/tanujav7/tanujav7/assets/73555975/d7d49ebe-0b2b-45d6-8c78-1e3dc69d0574)
 
 
 
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">An engineer with Curiosity && Passion</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanujav988&label=Profile%20views&color=0e75b6&style=flat" alt="tanujav988" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanujav7&label=Profile%20views&color=0e75b6&style=flat" alt="tanujav7" /> </p>
 
 
 - 📌 About me ➡️ I graduated in the year 2022 with a CGPA of 8.75 and my branch is Electronics and Communication. 
