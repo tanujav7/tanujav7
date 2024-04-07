@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Tanuja V</h1>
 
-![Daily News](https://github.com/tanujav7/tanujav7/assets/73555975/d7d49ebe-0b2b-45d6-8c78-1e3dc69d0574)
+
+![Daily News](https://github.com/tanujav7/tanujav7/assets/73555975/7a79af9c-424f-4fb4-b943-8d64f169fbb2)
 
 
 
@@ -69,7 +70,7 @@ I believe in self-management which includes discipline, time management, and hav
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanujav7&show_icons=true&locale=en" alt="tanujav7" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanujav988&" alt="tanujav988" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanujav7&" alt="tanujav7" /></p>
 
 
 
