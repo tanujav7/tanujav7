@@ -38,7 +38,7 @@ I believe in self-management which includes discipline, time management, and hav
 
 - 🌱 I’m currently learning **AWS, React JS**
 
-- ✍️ I also love blogging on <a href="https://hashnode.com/@tanujav">Hashnode</a> and <a href="https://dev.to/tanujav"> Dev.to </a>
+- ✍️ I also love blogging on <a href="https://hashnode.com/@tanujav">Hashnode</a>, <a href="https://dev.to/tanujav"> Dev.to </a> and <a href="https://medium.com/@tanujav7"> Medium </a>
 
 
 - 📫 How to reach me **ttanujav@gmail.com**
