@@ -29,8 +29,7 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanujav7&label=Profile%20views&color=0e75b6&style=flat" alt="tanujav7" /> </p>
 
 
-- 📌 About me ➡️ I graduated in the year 2022 with a CGPA of 8.75 and my branch is Electronics and Communication. 
-I believe in self-management which includes discipline, time management, and having clear goals which constitute "Productivity"💪. Productivity in itself is a myth🙅‍♀️.
+- 📌 About me ➡️ I believe in self-management which includes discipline, time management, and having clear goals which constitute "Productivity"💪. Productivity in itself is a myth🙅‍♀️.
 
 - Coding is both easy and hard. Sometimes it becomes mind-numbingly hard to find a bug/(feature) or to develop software. But in the end, that "Eureka" moment becomes the cherry on top of the cake. That was my experience.
   
