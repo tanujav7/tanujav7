@@ -33,9 +33,7 @@ Here are some ideas to get you started:
 
 - Coding is both easy and hard. Sometimes it becomes mind-numbingly hard to find a bug/(feature) or to develop software. But in the end, that "Eureka" moment becomes the cherry on top of the cake. That was my experience.
   
-- 🔭 I’m currently working on **Competitive Programming, Projects**
-
-- 🌱 I’m currently learning **AWS, React JS**
+- 🔭 I’m currently working on **Projects**
 
 - ✍️ I also love blogging on <a href="https://hashnode.com/@tanujav">Hashnode</a>, <a href="https://dev.to/tanujav"> Dev.to </a> and <a href="https://medium.com/@tanujav7"> Medium </a>
 
