@@ -37,8 +37,8 @@ Here are some ideas to get you started:
 
 - ✍️ I also love blogging on <a href="https://hashnode.com/@tanujav">Hashnode</a>, <a href="https://dev.to/tanujav"> Dev.to </a> and <a href="https://medium.com/@tanujav7"> Medium </a>
 
-
-- 📫 How to reach me **ttanujav@gmail.com**
+- Available for Freelancing and collaborations 😇 -> (Content writing, Ghost Writing, Article/Blog Writing, Virtual Assistant, Data Entry, Proof Reading, Creative Writing) <br>
+**Contact me at - ttanujav@gmail.com**
 
 
 
