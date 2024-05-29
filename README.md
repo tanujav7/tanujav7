@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 - Connect with me on other socials   https://linktr.ee/tanujav7
 
-- Available for Freelancing and collaborations 😇 -> (Content writing, Ghost Writing, Article/Blog Writing, Virtual Assistant, Data Entry, Proof Reading, Creative Writing) <br>
+- Available for Freelancing and collaborations -> (Content writing, Ghost Writing, Article/Blog Writing, Virtual Assistant, Data Entry, Proof Reading, Creative Writing) <br>
 **Contact me at - ttanujav@gmail.com**
 
 
