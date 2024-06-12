@@ -39,11 +39,8 @@ Here are some ideas to get you started:
 
 - Connect with me on other socials   https://linktr.ee/tanujav7
 
-- My latest youtube short
-<video width="400" height="540" controls>
-  <source src="https://youtube.com/shorts/O5iAfQ5K4XY?feature=share.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
+- My latest youtube short : https://youtube.com/shorts/O5iAfQ5K4XY?si=hyM5ltHzm6ZekJPH
+
 
 - Available for Freelancing and collaborations -> (Content writing, Ghost Writing, Article/Blog Writing, Virtual Assistant, Data Entry, Proof Reading, Creative Writing) <br>
 **Contact me at - ttanujav@gmail.com**
