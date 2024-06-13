@@ -39,8 +39,7 @@ Here are some ideas to get you started:
 
 - Connect with me on other socials   https://linktr.ee/tanujav7
 
-- My latest youtube short : https://youtube.com/shorts/O5iAfQ5K4XY?si=hyM5ltHzm6ZekJPH
-
+- My latest youtube short : https://www.youtube.com/shorts/NH_PjmwcnIQ
 
 - Available for Freelancing and collaborations -> (Content writing, Ghost Writing, Article/Blog Writing, Virtual Assistant, Data Entry, Proof Reading, Creative Writing) <br>
 **Contact me at - ttanujav@gmail.com**
